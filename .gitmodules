@@ -1,0 +1,3 @@
+[submodule "functions/ht_pnp_function"]
+	path = functions/ht_pnp_function
+	url = https://github.com/HajimeTaira/ht_pnp_function.git
